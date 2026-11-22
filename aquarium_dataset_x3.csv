@@ -1,0 +1,1135 @@
+Aquarium_size,Experience,Animal_category,Lighting,Tank_liters,Temperature_c,Animal_species
+1,1,2,2,450,26,Lemonpeel angelfish
+0,0,4,1,60,20,Garter snake
+1,0,6,0,200,27,Superworm beetle
+0,2,4,2,120,32,Armadillo girdled lizard
+0,1,2,1,120,27,Pajama cardinalfish
+0,2,0,0,30,26,Cobalt blue tarantula
+0,2,5,1,40,20,Glass frog
+1,1,1,1,600,27,Angelfish
+0,2,5,1,80,25,Phantasmal poison frog
+1,2,4,2,400,20,Parson's chameleon
+1,0,2,1,400,24,Humbug damselfish
+1,2,2,1,800,27,Lionfish
+1,1,0,0,80,23,Giant huntsman spider
+1,0,2,1,400,24,Orange-tail damselfish
+0,2,2,1,120,27,Banded pipefish
+0,1,4,2,120,32,Gold dust day gecko
+0,0,2,1,60,24,Three-stripe damselfish
+0,2,3,1,30,24,Taiwan bee shrimp
+0,1,2,1,120,27,Tailspot blenny
+1,0,4,2,600,32,Bearded dragon
+0,1,0,0,40,28,Costa Rican zebra tarantula
+0,0,4,1,120,26,Crested gecko
+1,2,4,0,3000,32,Burmese python
+0,1,6,1,20,22,Giant Asian mantis
+0,1,6,1,40,27,Giant Asian mantis
+0,2,2,1,120,27,Seahorse
+0,1,2,1,90,26,Banggai cardinalfish
+0,0,4,1,90,24,Crested gecko
+1,2,2,0,900,26,Moray eel
+1,0,0,0,80,23,Brazilian black tarantula
+1,2,0,0,300,28,Goliath birdeater
+0,2,4,2,90,22,Pygmy chameleon
+1,2,3,0,600,26,Coconut crab
+0,2,5,1,60,22,Splendid leaf frog
+0,1,4,2,60,22,Stinkpot musk turtle
+0,0,3,1,40,27,Hermit crab
+0,0,5,1,80,22,Pacific tree frog
+0,0,6,1,30,24,Fruit flies
+0,2,4,2,90,22,Jackson's chameleon
+1,1,0,1,120,26,Fishing spider
+1,2,2,0,1200,27,Moray eel
+0,1,3,1,30,24,Bamboo shrimp
+0,0,4,1,60,22,Mourning gecko
+0,0,6,0,30,24,Silkworm
+1,1,3,1,300,27,Fighting conch
+1,2,6,0,150,24,Army ants
+1,2,2,1,2250,26,Bamboo shark
+1,2,5,0,600,10,Hellbender
+1,2,5,0,800,28,Congo eel
+0,0,2,1,60,24,Blue-leg hermit crab
+0,2,2,2,90,26,Pygmy angelfish
+1,2,4,2,900,30,Green iguana
+0,0,3,0,20,22,Giant African millipede
+1,0,3,0,300,27,Red wiggler worms
+0,0,3,1,20,22,Malaysian trumpet snail
+1,1,4,2,600,26,Red-eared slider turtle
+0,1,5,1,60,22,Green and black poison dart frog
+0,2,6,1,20,22,Budwing mantis
+0,0,1,1,60,26,Molly
+1,1,5,1,200,22,Waxy monkey frog
+1,1,3,1,200,24,Fighting conch
+1,0,5,0,300,25,Spadefoot toad
+1,0,1,0,300,24,Plecostomus
+1,0,4,0,400,22,California kingsnake
+1,2,6,1,100,22,Stingless bee colony
+0,1,5,1,40,10,Eastern newt
+0,2,0,0,40,28,Singapore blue tarantula
+0,0,0,0,20,23,Mexican red-rump tarantula
+0,2,4,2,60,18,Pygmy chameleon
+1,0,0,0,160,28,Brazilian red and white tarantula
+0,2,5,1,60,22,Glass frog
+1,0,2,1,600,26,Blue damselfish
+0,2,0,0,30,26,Orange baboon tarantula
+0,2,3,1,40,27,Crystal red shrimp
+1,2,0,0,160,28,Trapdoor spider
+1,1,2,2,400,24,Coral beauty angelfish
+1,0,1,1,450,26,Swordtail
+1,0,1,1,750,26,Tinfoil barb
+1,2,5,0,200,21,Hairy frog
+0,0,0,0,40,28,Jumping spider
+1,0,4,0,600,29,Ball python
+0,1,1,1,60,26,Dwarf gourami
+0,1,1,1,60,26,Rummy-nose tetra
+0,2,6,1,30,24,Jeweled flower mantis
+1,0,1,1,600,27,Firemouth cichlid
+0,1,4,0,120,30,Tokay gecko
+0,0,2,1,60,24,Neon goby
+0,1,1,0,40,24,Kuhli loach
+1,2,6,0,100,22,Leafcutter ants
+1,0,4,0,800,32,Ball python
+0,1,2,1,60,24,Yellow watchman goby
+1,0,2,1,400,24,Cinnamon clownfish
+1,0,2,1,600,26,Green chromis
+0,0,6,0,40,27,Dubia roach
+1,2,5,1,600,25,African bullfrog
+1,2,3,0,300,27,Spiny lobster
+1,1,3,1,300,27,Australian red claw crayfish
+1,0,2,1,800,27,Green chromis
+0,1,5,1,60,22,Dyeing poison frog
+1,0,3,0,200,24,Roman snail
+1,0,1,1,450,26,Bala shark
+0,0,1,1,60,26,Zebra danio
+1,0,3,1,200,24,Red swamp crayfish
+0,2,2,1,60,24,Mantis shrimp
+1,0,1,1,600,27,Giant danio
+0,0,1,1,40,24,Molly
+1,1,4,2,800,32,Leopard tortoise
+0,1,1,1,60,26,Celestial pearl danio
+0,2,3,1,30,24,Sunkist shrimp
+1,0,3,1,150,22,Yabby
+0,2,5,1,60,22,Mission golden-eyed tree frog
+0,1,0,0,20,23,Antilles pinktoe tarantula
+0,2,1,1,60,26,Dwarf pencilfish
+0,1,5,0,80,20,Marbled salamander
+0,2,1,0,40,24,Chocolate gourami
+0,1,2,1,90,26,Pajama cardinalfish
+0,0,3,1,20,22,Ramshorn snail
+1,0,2,1,600,26,Sergeant major
+1,0,1,1,200,20,Goldfish
+0,2,0,0,40,28,Gooty sapphire ornamental tarantula
+1,1,1,1,800,27,Oscar
+0,1,1,1,80,27,Cardinal tetra
+1,0,2,1,600,26,Domino damselfish
+1,1,2,1,400,24,Banded coral shrimp
+0,2,1,2,40,18,Hillstream loach
+0,1,5,1,40,20,Poison dart frog
+1,0,4,0,600,25,Corn snake
+0,0,6,0,40,27,Orange-head roach
+0,1,4,0,90,27,Children's python
+1,2,5,0,900,14,Hellbender
+1,2,3,1,1200,24,Horseshoe crab
+0,2,5,0,60,22,Rubber eel caecilian
+0,1,1,1,60,26,Cardinal tetra
+1,1,3,1,150,22,Chocolate chip starfish
+1,0,6,0,100,22,Superworm beetle
+1,2,2,2,800,27,Blue tang
+1,1,4,2,1200,32,Argentine tegu
+1,0,4,2,600,26,Hermann's tortoise
+0,1,4,2,120,28,Spotted turtle
+1,0,6,0,150,24,Feeder cricket colony
+0,1,5,1,80,25,Poison dart frog
+1,0,5,1,150,15,American toad
+1,1,0,0,120,26,Black rock scorpion
+1,2,6,0,200,27,Termite colony
+1,2,1,1,1500,26,Freshwater stingray
+0,1,5,1,40,20,Vietnamese mossy frog
+0,0,6,0,20,22,Dubia roach
+1,2,1,0,2000,24,Red-tail catfish
+1,0,0,0,80,23,Brazilian red and white tarantula
+0,0,3,1,30,24,Amano shrimp
+0,2,0,0,20,23,Orange baboon tarantula
+0,0,6,0,20,22,Domino roach
+0,2,4,0,90,22,Leaf-tailed gecko
+0,0,5,1,60,22,Green tree frog
+0,0,3,1,30,24,Ghost shrimp
+0,0,6,0,30,24,Dubia roach
+0,2,5,1,40,20,Phantasmal poison frog
+1,1,4,2,900,28,Argentine tegu
+0,2,0,0,20,23,Indian ornamental tarantula
+0,2,4,2,60,20,Flap-necked chameleon
+1,1,2,2,400,24,Bicolor angelfish
+1,0,4,0,600,25,California kingsnake
+1,1,5,0,150,20,Surinam toad
+0,0,5,1,40,20,Green tree frog
+1,0,5,0,200,26,Pacman frog
+1,1,6,0,200,27,Carpenter ants
+0,2,5,1,40,20,Strawberry poison frog
+1,0,0,0,80,23,Stripe-knee tarantula
+1,0,3,1,300,27,Electric blue crayfish
+0,2,6,1,40,27,Dead leaf mantis
+0,0,4,0,120,32,Kenyan sand boa
+1,0,3,0,300,27,Roman snail
+1,1,5,1,150,20,Red-eyed tree frog
+1,2,1,1,600,24,Arowana
+1,0,1,1,300,24,Swordtail
+1,0,6,0,200,27,Lobster roach
+1,0,4,0,800,28,Milk snake
+0,2,4,2,120,28,Flap-necked chameleon
+0,2,4,2,120,26,Pygmy chameleon
+0,1,2,1,120,27,Six-line wrasse
+0,2,2,1,60,24,Firefish goby
+0,1,1,1,40,24,Dwarf gourami
+1,1,3,1,200,24,Chocolate chip starfish
+0,0,6,0,30,24,Madagascar hissing cockroach
+1,1,1,1,300,24,Angelfish
+1,0,3,1,300,27,Marbled crayfish
+1,1,0,0,80,24,Giant desert hairy scorpion
+1,0,5,1,300,24,Gray tree frog
+1,0,0,0,80,23,Arizona blonde tarantula
+1,1,2,1,600,26,Porcupine pufferfish
+0,0,4,2,60,22,Green anole
+0,0,1,1,40,24,Guppy
+0,0,2,1,90,26,Astrea snail
+0,2,5,1,40,20,Splendid leaf frog
+1,1,6,1,100,15,Bumblebee colony
+0,2,3,1,40,27,Pinto shrimp
+1,0,2,1,600,26,Neon damselfish
+0,1,3,1,20,22,Assassin snail
+1,0,0,0,80,23,Salmon pink birdeater
+0,1,4,0,60,24,Children's python
+0,2,5,1,40,20,Lemur leaf frog
+1,1,1,1,600,26,Oscar
+1,0,1,1,450,26,Silver dollar
+1,2,0,0,80,23,Sydney funnel-web spider
+1,1,1,1,2000,15,Koi
+1,2,2,0,600,24,Moray eel
+1,2,6,0,200,27,Army ants
+1,2,0,0,120,26,Thailand black tarantula
+0,1,0,0,30,26,Costa Rican zebra tarantula
+0,0,6,0,20,22,Mealworm beetle
+0,0,0,0,20,23,Pumpkin patch tarantula
+1,2,3,2,600,24,Giant clam
+1,2,2,2,400,24,Yellow tang
+0,2,6,1,40,27,Spiny flower mantis
+0,2,4,2,120,24,Cape dwarf chameleon
+0,1,1,1,80,27,German blue ram
+1,1,3,1,300,27,Tuxedo urchin
+0,2,3,1,40,27,Blue bolt shrimp
+1,0,4,2,400,24,Blue-tongued skink
+0,2,2,1,90,26,Mantis shrimp
+1,2,6,1,200,27,Stingless bee colony
+1,2,6,0,100,22,Army ants
+1,1,5,0,150,14,Axolotl
+0,0,4,0,90,28,African fat-tailed gecko
+1,1,5,0,200,16,Axolotl
+1,2,5,1,300,20,African bullfrog
+1,0,4,2,600,28,Blue-tongued skink
+0,0,1,1,40,16,White Cloud Mountain minnow
+1,2,3,2,400,22,Giant clam
+0,0,2,1,60,24,Peppermint shrimp
+1,0,5,1,300,25,White's tree frog
+0,0,5,1,40,20,Oriental fire-bellied toad
+1,1,5,0,200,15,Fire salamander
+0,0,2,1,90,26,Nassarius snail
+0,0,5,1,80,24,Southern leopard frog
+1,1,2,2,600,26,Bicolor angelfish
+0,1,6,0,30,24,Atlas moth
+0,0,2,1,120,27,Blue-leg hermit crab
+0,1,5,1,80,20,Eastern newt
+1,2,3,0,800,16,American lobster
+0,2,6,1,30,24,Thistle mantis
+0,2,1,0,40,24,Amazon leaf fish
+0,0,4,0,90,27,Rosy boa
+1,1,2,2,800,27,Coral beauty angelfish
+0,1,6,1,40,27,Spiny leaf insect
+1,2,3,0,300,4,Giant isopod
+0,0,0,1,20,23,Regal jumping spider
+0,1,3,1,30,24,Rabbit snail
+1,0,2,1,800,27,Sergeant major
+0,2,1,1,80,27,Pygmy sunfish
+1,0,0,0,80,23,Mexican red-leg tarantula
+1,2,3,0,450,7,Giant isopod
+1,2,1,1,2000,24,Arapaima
+1,1,6,0,100,22,Stag beetle
+0,0,2,1,90,26,Peppermint shrimp
+0,0,1,1,80,27,Betta fish
+0,0,1,1,40,24,Neon tetra
+1,0,5,1,200,22,Cuban tree frog
+0,1,4,2,60,18,Eastern mud turtle
+0,0,6,0,20,22,Orange-head roach
+0,1,1,1,80,27,Dwarf pufferfish
+0,0,4,0,90,28,Leopard gecko
+0,1,4,2,90,23,Eastern mud turtle
+0,1,3,1,30,24,Assassin snail
+1,0,6,0,150,24,Red runner roach
+1,2,2,0,600,26,Octopus
+1,1,6,0,200,27,Atlas beetle
+0,1,3,1,20,22,Vampire crab
+1,2,0,0,160,28,Indian violet tarantula
+1,0,4,0,400,22,Corn snake
+1,0,4,0,600,24,Milk snake
+1,0,0,0,160,28,Salmon pink birdeater
+0,1,3,1,30,24,Dwarf crayfish
+0,0,0,0,30,26,Tarantula
+0,2,5,1,80,25,Splendid leaf frog
+0,2,2,1,120,27,Mandarin dragonet
+0,2,0,0,30,26,Gooty sapphire ornamental tarantula
+1,1,1,1,450,26,Angelfish
+1,1,6,0,200,27,Stag beetle
+0,1,1,1,40,24,Dwarf pufferfish
+0,2,0,0,20,23,Deathstalker scorpion
+1,1,4,2,600,28,Leopard tortoise
+0,2,2,2,60,24,Pygmy angelfish
+0,2,3,0,40,27,Hawaiian bobtail squid
+1,2,1,1,300,24,Discus
+1,0,1,1,300,24,Bala shark
+0,0,5,1,60,22,Barking tree frog
+0,2,0,0,20,23,Singapore blue tarantula
+0,2,5,1,60,22,Phantasmal poison frog
+0,2,4,2,120,26,Four-horned chameleon
+1,1,4,2,400,24,Leopard tortoise
+1,0,2,1,400,24,Blue damselfish
+1,1,3,1,300,27,Giant Malaysian prawn
+0,1,3,1,30,24,Vampire shrimp
+1,1,5,0,300,25,Surinam toad
+0,0,2,1,120,27,Astrea snail
+0,1,4,2,120,28,Stinkpot musk turtle
+1,0,0,0,160,28,Giant whiteknee tarantula
+1,0,6,0,200,27,Waxworm moth
+0,1,0,0,40,28,Flat rock scorpion
+1,1,1,1,300,24,African cichlid
+0,1,2,1,60,24,Tailspot blenny
+0,0,0,0,40,28,Mexican red-knee tarantula
+0,1,4,0,90,27,Western hognose snake
+0,0,3,1,40,27,Malaysian trumpet snail
+0,0,4,0,60,20,Gargoyle gecko
+1,2,2,1,600,26,Cuttlefish
+0,1,2,1,90,26,Six-line wrasse
+0,2,5,0,80,25,Rubber eel caecilian
+1,2,4,2,800,26,Parson's chameleon
+0,1,6,1,40,27,Monarch butterfly
+1,0,2,1,400,24,Sergeant major
+0,1,2,1,60,24,Blue-spotted jawfish
+0,2,0,0,40,28,Cobalt blue tarantula
+0,2,1,0,80,26,Wild betta
+1,0,3,0,300,20,Nightcrawler worms
+1,2,5,0,1200,18,Hellbender
+0,1,6,1,20,22,Spiny leaf insect
+0,1,3,1,40,27,Vampire shrimp
+0,1,3,1,20,22,Vampire shrimp
+0,1,2,1,60,24,Royal gramma
+1,2,0,0,80,23,Thailand black tarantula
+0,1,0,0,40,28,Antilles pinktoe tarantula
+1,0,0,0,120,26,Arizona blonde tarantula
+0,1,4,0,60,24,Tokay gecko
+0,0,6,0,40,27,Madagascar hissing cockroach
+1,1,0,0,120,26,Tanzanian red-claw scorpion
+1,0,4,2,800,38,Bearded dragon
+1,1,4,2,600,26,Savannah monitor
+0,0,5,0,60,22,Tomato frog
+1,1,1,1,300,24,Jack Dempsey
+1,0,1,1,600,27,Bala shark
+0,0,5,1,80,25,African dwarf frog
+1,2,6,0,100,22,Goliath beetle
+0,0,3,1,40,27,Amano shrimp
+1,0,0,0,120,26,Salmon pink birdeater
+0,1,2,1,90,26,Yellow watchman goby
+0,0,2,1,60,24,Azure damselfish
+0,2,3,1,20,22,Tiger shrimp
+0,2,1,0,80,27,Chocolate gourami
+0,2,5,1,40,20,Mantella frog
+0,1,4,2,120,32,Giant day gecko
+1,2,4,2,3000,32,Water monitor
+1,2,4,2,300,24,Veiled chameleon
+1,2,5,1,800,26,Goliath frog
+1,2,1,0,600,27,Elephantnose fish
+1,2,1,1,3000,22,Alligator gar
+1,1,1,1,4000,24,Koi
+1,0,6,2,100,22,Black soldier fly
+1,2,4,2,600,32,Panther chameleon
+1,1,5,0,150,8,Spotted salamander
+1,2,6,0,100,22,Termite colony
+0,1,3,1,40,27,Fiddler crab
+1,0,3,0,300,27,Giant African land snail
+1,1,0,0,80,23,Mexican fireleg tarantula
+0,0,4,0,120,25,Gargoyle gecko
+0,1,1,1,80,27,Rummy-nose tetra
+1,2,1,0,2250,26,Electric eel
+0,0,2,1,90,26,Emerald crab
+1,2,0,0,120,26,Trapdoor spider
+1,0,0,0,160,28,Chaco golden knee tarantula
+1,2,6,0,100,22,Bullet ants
+1,0,1,1,300,24,Silver dollar
+0,2,6,1,30,24,Malaysian shield mantis
+0,0,3,1,20,22,Nerite snail
+0,2,1,0,60,26,Amazon leaf fish
+1,1,6,1,150,20,Bumblebee colony
+1,1,4,2,800,28,Red-eared slider turtle
+0,0,0,0,30,26,Curly hair tarantula
+0,2,4,1,60,24,Flying gecko
+0,1,1,1,40,24,Pygmy corydoras
+0,2,2,1,90,26,Scooter dragonet
+0,1,0,0,40,28,Green bottle blue tarantula
+1,1,3,1,200,24,Australian red claw crayfish
+0,0,1,1,40,24,Cherry barb
+1,0,5,0,300,27,Pacman frog
+1,2,5,0,400,12,Olm
+1,0,3,0,150,22,Giant African land snail
+1,0,3,1,300,27,Yabby
+1,2,1,1,2000,27,Freshwater stingray
+1,2,2,1,400,24,Lionfish
+1,0,4,2,600,25,Russian tortoise
+1,2,2,2,600,26,Blue tang
+0,2,6,1,20,22,Malaysian shield mantis
+0,1,5,1,80,25,Bumblebee poison frog
+0,0,2,1,60,24,Yellowtail damselfish
+0,0,6,1,40,27,Fruit flies
+0,0,0,1,30,26,Regal jumping spider
+0,1,3,1,30,24,Blue velvet shrimp
+1,2,5,0,300,24,Greater siren
+1,1,2,1,800,27,Flame hawkfish
+1,2,6,0,150,24,Termite colony
+0,0,1,1,80,27,Guppy
+1,1,0,0,120,28,Giant desert hairy scorpion
+1,2,5,1,300,15,Titicaca water frog
+1,2,1,1,4000,26,Alligator gar
+0,1,0,0,40,28,Pink toe tarantula
+1,0,0,0,120,26,Brazilian black tarantula
+0,2,4,2,60,26,Armadillo girdled lizard
+0,0,3,1,30,24,Malaysian trumpet snail
+1,1,0,0,160,28,Mexican fireleg tarantula
+1,1,5,1,200,22,Red-eyed tree frog
+0,2,5,0,40,20,Rubber eel caecilian
+1,1,1,1,600,27,African cichlid
+1,2,2,1,800,27,Cuttlefish
+0,0,2,1,120,27,Emerald crab
+0,1,2,1,120,27,Banggai cardinalfish
+0,2,0,0,40,28,Mombasa golden starburst tarantula
+1,2,1,1,3000,26,Arapaima
+0,2,4,2,60,18,Four-horned chameleon
+0,0,6,1,30,24,Indian stick insect
+0,1,6,1,30,24,Spiny leaf insect
+0,1,3,1,20,22,Blue velvet shrimp
+0,1,1,1,80,27,Celestial pearl danio
+0,1,0,0,30,26,Asian forest scorpion
+0,2,3,1,40,27,Sunkist shrimp
+1,1,5,1,300,25,Red-eyed tree frog
+0,0,3,1,30,24,Nerite snail
+1,0,6,0,200,27,Red runner roach
+0,0,4,0,60,24,Leopard gecko
+0,2,3,1,20,22,Bumblebee shrimp
+0,0,1,1,40,24,Zebra danio
+1,0,5,1,150,15,Fowler's toad
+0,2,4,2,120,25,Madagascar leaf chameleon
+0,0,1,1,60,26,Platy
+1,0,2,1,800,27,Humbug damselfish
+1,1,3,1,200,24,Tuxedo urchin
+1,2,2,2,400,24,Blue tang
+1,2,3,1,1600,27,Horseshoe crab
+0,2,1,1,60,24,Nothobranchius killifish
+1,1,0,1,80,23,Fishing spider
+1,1,2,2,800,27,Foxface rabbitfish
+1,0,3,1,150,22,Electric blue crayfish
+1,1,0,0,160,28,Colombian giant redleg tarantula
+1,2,1,1,4000,27,Arapaima
+1,0,4,2,600,25,Painted turtle
+0,1,1,0,60,26,Kuhli loach
+1,2,5,1,400,22,Goliath frog
+0,0,4,1,90,24,Garter snake
+0,0,6,1,20,22,Indian stick insect
+0,0,5,1,80,25,Oriental fire-bellied toad
+1,0,0,0,160,28,Stripe-knee tarantula
+1,1,1,1,600,27,Clown loach
+1,2,5,0,150,18,Hairy frog
+0,0,5,1,60,22,Oriental fire-bellied toad
+1,1,2,2,400,24,Foxface rabbitfish
+0,1,5,1,60,22,Blue poison dart frog
+0,0,6,0,20,22,Silkworm
+1,0,6,1,150,24,Ladybug colony
+0,0,0,0,40,28,Mexican red-rump tarantula
+0,0,6,0,20,22,Madagascar hissing cockroach
+1,1,0,0,160,28,Black rock scorpion
+0,2,6,1,30,24,Budwing mantis
+0,1,5,1,60,22,Clown tree frog
+1,2,6,0,100,22,Giant weta
+0,0,1,1,60,26,Neon tetra
+1,0,6,0,100,22,Waxworm moth
+0,1,6,1,40,27,Orchid mantis
+0,1,2,1,120,27,Orchid dottyback
+1,0,3,0,150,22,Red wiggler worms
+0,2,5,1,60,22,Mantella frog
+0,2,1,1,60,26,Pygmy sunfish
+1,1,1,1,450,26,Rainbowfish
+1,0,2,1,800,27,Blue damselfish
+1,1,0,0,160,28,Giant huntsman spider
+0,2,4,2,120,26,Jackson's chameleon
+0,2,6,1,40,27,Jeweled flower mantis
+0,0,0,0,40,28,Pink zebra beauty tarantula
+0,0,5,1,80,20,Spring peeper
+0,2,2,1,60,24,Banded pipefish
+0,0,2,1,90,26,Three-stripe damselfish
+1,1,2,2,600,26,Foxface rabbitfish
+0,0,2,1,120,27,Three-stripe damselfish
+0,2,5,1,60,22,Lemur leaf frog
+0,1,4,2,120,28,Eastern mud turtle
+1,0,6,1,100,22,Ladybug colony
+0,0,2,1,90,26,Azure damselfish
+0,2,0,0,40,28,Venezuelan suntiger tarantula
+0,2,1,0,40,22,Licorice gourami
+0,2,6,1,20,22,Thistle mantis
+1,0,4,2,800,30,Russian tortoise
+0,2,4,2,90,24,Flap-necked chameleon
+0,0,4,1,90,25,Mourning gecko
+1,0,6,0,200,27,Death's head cockroach
+1,1,6,0,150,24,Hercules beetle
+1,1,1,1,300,24,Flowerhorn cichlid
+0,2,5,1,80,25,Lemur leaf frog
+0,1,4,0,90,27,Tokay gecko
+0,1,1,0,80,27,Kuhli loach
+1,2,4,2,2250,29,Water monitor
+1,2,1,1,900,26,Arowana
+0,1,6,1,30,24,Giant leaf insect
+1,0,0,0,160,28,Texas brown tarantula
+1,2,0,0,120,26,King baboon tarantula
+0,0,2,1,60,24,Nassarius snail
+1,2,0,0,120,26,Brazilian wandering spider
+1,1,5,0,300,18,Mudpuppy
+0,2,2,1,90,26,Seahorse
+1,1,5,1,300,25,Waxy monkey frog
+0,1,0,0,30,26,Vinegaroon
+0,2,3,1,30,24,Bumblebee shrimp
+1,1,5,0,300,18,Fire salamander
+1,2,0,0,160,28,Cameroon red baboon tarantula
+1,1,0,0,160,32,Giant desert hairy scorpion
+1,0,6,0,100,22,Feeder cricket colony
+1,0,0,0,160,28,Mexican red-leg tarantula
+1,0,2,1,800,27,Cinnamon clownfish
+1,0,5,1,150,18,Gray tree frog
+1,0,0,0,120,26,Brazilian red and white tarantula
+0,0,5,1,60,17,Pickerel frog
+0,2,4,2,90,20,Cape dwarf chameleon
+1,1,4,2,1500,28,Sulcata tortoise
+0,0,1,1,40,24,Betta fish
+1,0,3,0,150,22,Roman snail
+0,0,5,1,40,12,Pacific tree frog
+1,1,4,2,600,28,Chinese water dragon
+0,1,4,2,60,18,Spotted turtle
+0,2,2,1,60,24,Scooter dragonet
+0,1,6,0,30,24,Harvester ants
+0,2,4,0,60,20,Leaf-tailed gecko
+0,1,0,0,40,28,Tailless whip scorpion
+1,0,3,1,200,24,Electric blue crayfish
+0,0,0,0,20,23,Mexican red-knee tarantula
+1,0,6,0,150,24,Death's head cockroach
+0,1,6,1,30,24,Monarch butterfly
+0,2,0,0,20,23,Mombasa golden starburst tarantula
+1,2,3,0,600,10,Giant isopod
+0,0,3,1,40,27,Nerite snail
+1,1,4,2,400,24,Red-eared slider turtle
+0,1,0,0,40,28,Wolf spider
+1,0,0,0,80,23,Texas brown tarantula
+1,0,0,0,160,28,Arizona blonde tarantula
+0,2,0,0,40,28,Camel spider
+0,0,4,1,120,28,Mourning gecko
+1,0,5,1,200,21,African clawed frog
+0,2,0,0,40,28,Indian ornamental tarantula
+1,1,4,2,400,24,Red-footed tortoise
+1,0,5,1,150,20,White's tree frog
+0,1,2,1,120,27,Blue-spotted jawfish
+1,0,3,0,150,10,Nightcrawler worms
+1,1,6,0,200,27,Hercules beetle
+0,0,5,1,60,22,African dwarf frog
+0,2,5,1,40,20,Golden poison frog
+0,0,3,0,30,24,Giant African millipede
+1,0,2,1,400,24,Domino damselfish
+0,0,6,0,30,24,Mealworm beetle
+0,2,2,1,120,27,Scooter dragonet
+0,1,6,0,40,27,Harvester ants
+0,2,5,1,80,25,Golden poison frog
+0,1,3,1,20,22,Rabbit snail
+1,1,0,1,160,28,Fishing spider
+1,2,4,2,1200,35,Green iguana
+1,2,1,1,450,26,Discus
+1,1,3,1,200,24,Pencil urchin
+1,2,1,0,1500,24,Electric eel
+0,1,1,1,60,26,Dwarf pufferfish
+1,1,6,1,200,25,Bumblebee colony
+0,1,0,0,20,23,Vinegaroon
+1,2,0,0,120,26,Indian violet tarantula
+0,2,3,1,20,22,Blue bolt shrimp
+0,1,6,0,40,27,Atlas moth
+0,2,2,1,120,27,Firefish goby
+0,2,0,0,20,23,Cobalt blue tarantula
+0,2,6,1,20,22,Violin mantis
+0,1,5,1,80,25,Vietnamese mossy frog
+1,2,3,1,300,22,Sea apple
+1,0,6,0,100,22,Red runner roach
+1,2,4,2,300,24,Panther chameleon
+1,1,4,2,400,28,Uromastyx
+0,0,0,0,20,23,Tarantula
+0,2,0,0,30,26,Mombasa golden starburst tarantula
+1,0,0,0,120,26,Stripe-knee tarantula
+0,2,1,0,60,24,Licorice gourami
+1,1,5,0,150,8,Alpine newt
+1,0,3,1,150,22,Red swamp crayfish
+0,1,2,1,60,24,Orchid dottyback
+1,2,4,0,1500,26,Reticulated python
+1,2,3,2,800,27,Giant clam
+0,2,4,1,90,26,Flying gecko
+0,1,2,1,60,24,Banggai cardinalfish
+0,2,1,0,80,27,Amazon leaf fish
+1,1,3,1,150,22,Pencil urchin
+1,0,4,2,400,22,Painted turtle
+0,1,3,1,40,27,Bamboo shrimp
+1,2,6,0,200,27,Leafcutter ants
+0,0,3,1,20,22,Mystery snail
+1,1,0,0,80,23,Tanzanian red-claw scorpion
+0,0,2,1,120,27,Azure damselfish
+1,1,1,1,450,26,African cichlid
+1,2,2,2,800,27,Yellow tang
+0,2,6,1,30,24,Spiny flower mantis
+1,2,2,0,800,27,Octopus
+0,1,2,1,90,26,Orchid dottyback
+1,0,3,1,300,27,Red swamp crayfish
+1,1,2,1,400,24,Black-cap basslet
+0,0,2,1,90,26,Blue-leg hermit crab
+1,2,4,1,300,26,Green tree python
+1,1,5,0,200,14,Mudpuppy
+0,0,4,2,90,26,Green anole
+1,1,2,1,600,26,Banded coral shrimp
+0,2,4,2,60,18,Jackson's chameleon
+0,1,3,1,20,22,Bamboo shrimp
+0,0,3,1,30,24,Ramshorn snail
+1,0,3,0,200,15,Nightcrawler worms
+1,1,3,1,150,22,Giant Malaysian prawn
+1,0,6,0,150,24,Superworm beetle
+1,2,1,1,600,27,Discus
+0,2,6,1,20,22,Dead leaf mantis
+1,0,5,1,300,24,African clawed frog
+1,2,1,0,450,26,Elephantnose fish
+0,0,0,0,20,23,Emperor scorpion
+0,2,6,1,20,22,Leaf-mimic katydid
+1,0,0,0,120,26,Giant whiteknee tarantula
+1,1,0,0,120,26,Colombian giant redleg tarantula
+1,2,2,1,3000,27,Bamboo shark
+1,0,6,0,100,22,Lobster roach
+1,0,5,1,150,18,African clawed frog
+0,1,4,2,60,26,Gold dust day gecko
+1,0,2,1,800,27,Neon damselfish
+1,0,2,1,400,24,Neon damselfish
+0,0,1,1,80,27,Zebra danio
+0,2,3,1,20,22,Crystal red shrimp
+1,2,5,0,300,10,Olm
+0,1,5,1,80,25,Green and black poison dart frog
+0,2,2,1,60,24,Seahorse
+1,2,6,0,200,27,Goliath beetle
+0,2,6,1,40,27,Devil's flower mantis
+0,1,0,0,20,23,Flat rock scorpion
+1,1,4,2,800,30,Red-footed tortoise
+0,0,4,0,90,22,Gargoyle gecko
+1,0,4,2,400,25,Bearded dragon
+1,1,5,0,200,22,Surinam toad
+0,2,6,1,30,24,Dead leaf mantis
+1,1,6,1,100,22,Giant prickly stick insect
+1,2,6,0,150,24,Bullet ants
+1,0,2,1,400,24,Bicolor damselfish
+0,1,3,1,40,27,Dwarf crayfish
+0,1,2,1,120,27,Yellow watchman goby
+0,0,3,1,20,22,Cherry shrimp
+1,2,2,2,500,24,Powder blue tang
+0,2,0,0,20,23,Camel spider
+1,2,4,2,3000,32,Nile monitor
+1,2,4,0,2250,29,Reticulated python
+1,1,1,1,300,24,Rainbowfish
+0,0,6,0,40,27,Silkworm
+0,1,0,0,20,23,Costa Rican zebra tarantula
+0,2,5,1,80,25,Strawberry poison frog
+0,0,3,1,30,24,Hermit crab
+0,2,2,2,120,27,Pygmy angelfish
+1,0,3,0,200,20,Garden snail
+0,0,6,0,30,24,Orange-head roach
+1,1,0,0,160,28,Giant forest scorpion
+0,0,4,0,60,24,Kenyan sand boa
+1,1,2,1,600,26,Maroon clownfish
+1,0,4,0,800,28,Corn snake
+1,0,1,1,450,26,Firemouth cichlid
+0,1,1,1,60,26,German blue ram
+0,0,1,1,80,27,Harlequin rasbora
+1,2,5,1,600,24,Goliath frog
+0,0,0,0,20,23,Curly hair tarantula
+1,1,1,0,800,27,Black ghost knifefish
+1,1,5,0,300,18,Axolotl
+1,1,2,2,600,27,Lemonpeel angelfish
+1,2,2,2,800,27,Sea anemone
+0,1,5,0,60,15,Marbled salamander
+1,0,4,0,800,28,California kingsnake
+1,1,1,0,600,26,Black ghost knifefish
+0,1,6,1,20,22,Orchid mantis
+1,2,1,1,1000,24,Freshwater stingray
+0,1,4,2,90,25,Stinkpot musk turtle
+0,2,0,0,30,26,Venezuelan suntiger tarantula
+1,0,4,2,800,28,Painted turtle
+1,2,6,1,300,27,Honeybee colony
+1,2,2,2,600,26,Yellow tang
+1,2,1,0,3000,27,Electric eel
+1,2,4,2,450,28,Veiled chameleon
+1,0,6,1,200,27,Ladybug colony
+0,0,0,0,30,26,Mexican red-rump tarantula
+0,1,0,0,20,23,Asian forest scorpion
+0,1,4,0,60,24,Madagascar ground gecko
+1,0,5,1,300,25,Cuban tree frog
+1,0,5,0,300,22,Tiger salamander
+1,2,0,0,80,23,Brazilian wandering spider
+1,0,1,1,300,24,Giant danio
+1,2,3,0,1000,8,Japanese spider crab
+1,1,6,1,200,27,Giant prickly stick insect
+0,0,0,0,20,23,Jumping spider
+0,0,0,0,40,28,Emperor scorpion
+1,1,4,2,600,35,Ackie monitor
+1,2,3,0,800,28,Coconut crab
+1,1,1,1,400,24,Oscar
+1,1,0,0,80,23,Colombian giant redleg tarantula
+1,0,3,1,150,22,Marbled crayfish
+0,2,1,1,80,27,Marbled hatchetfish
+1,2,2,2,750,26,Powder blue tang
+0,1,3,1,40,27,Rabbit snail
+0,2,0,0,20,23,Gooty sapphire ornamental tarantula
+1,2,0,0,160,28,Brazilian wandering spider
+1,1,3,1,150,22,Tuxedo urchin
+0,2,2,1,90,26,Cleaner shrimp
+0,2,1,1,60,26,Marbled hatchetfish
+0,2,2,1,90,26,Mandarin dragonet
+1,1,2,1,600,26,Flame hawkfish
+0,0,1,1,40,24,Platy
+0,1,0,0,20,23,Pink toe tarantula
+0,0,1,1,60,26,Guppy
+0,1,5,1,40,20,Blue poison dart frog
+1,2,3,0,400,24,Coconut crab
+0,1,4,2,90,23,Spotted turtle
+0,1,2,1,120,27,Royal gramma
+1,1,4,2,1200,35,Savannah monitor
+1,0,4,2,800,30,Hermann's tortoise
+1,0,3,1,200,24,Marbled crayfish
+1,1,5,0,150,20,Budgett's frog
+1,2,4,1,600,32,Green tree python
+1,0,0,0,120,26,Chaco golden knee tarantula
+1,1,2,1,800,27,Maroon clownfish
+1,0,2,1,800,27,Domino damselfish
+1,1,0,0,120,26,Mexican fireleg tarantula
+0,1,6,1,40,27,Giant leaf insect
+0,1,0,0,30,26,Tailless whip scorpion
+0,0,5,1,60,20,Southern leopard frog
+0,1,0,0,30,26,Green bottle blue tarantula
+1,1,1,1,450,26,Jack Dempsey
+0,2,1,0,60,24,Wild betta
+1,0,1,1,300,23,Goldfish
+0,0,2,1,60,24,Astrea snail
+0,2,2,1,120,27,Mantis shrimp
+1,0,6,0,150,24,Waxworm moth
+0,0,6,0,30,24,Domino roach
+1,1,4,2,800,40,Uromastyx
+0,2,1,1,80,26,Nothobranchius killifish
+0,2,3,1,20,22,Sulawesi shrimp
+1,1,2,2,800,27,Bicolor angelfish
+0,2,0,0,40,28,Orange baboon tarantula
+0,0,3,1,30,24,Mystery snail
+1,0,1,1,300,24,Convict cichlid
+0,1,5,1,60,22,Bumblebee poison frog
+0,0,5,1,80,22,Pickerel frog
+0,1,5,1,40,20,Bumblebee poison frog
+1,0,6,2,200,27,Black soldier fly
+1,1,5,0,150,12,Fire salamander
+0,1,5,1,60,15,Eastern newt
+1,1,2,2,300,24,Lemonpeel angelfish
+0,1,2,1,120,27,Clownfish
+1,2,6,0,150,24,Leafcutter ants
+1,0,1,1,600,27,Swordtail
+1,1,5,0,200,13,Spotted salamander
+1,0,3,0,300,25,Garden snail
+1,1,4,2,2000,32,Sulcata tortoise
+1,2,4,2,600,26,Green iguana
+0,1,6,1,30,24,Orchid mantis
+1,2,0,0,160,28,Sydney funnel-web spider
+0,2,1,0,80,27,Licorice gourami
+0,0,4,0,120,32,Leopard gecko
+1,2,0,0,120,26,Cameroon red baboon tarantula
+1,0,1,1,450,26,Convict cichlid
+1,2,3,0,1500,12,Japanese spider crab
+0,0,0,1,40,28,Regal jumping spider
+0,2,4,2,60,20,Madagascar leaf chameleon
+0,0,2,1,120,27,Neon goby
+0,0,3,1,40,27,Cherry shrimp
+0,0,0,0,30,26,Jumping spider
+0,2,0,0,30,26,Singapore blue tarantula
+0,1,3,1,20,22,Dwarf crayfish
+0,2,3,1,20,22,Pinto shrimp
+1,1,6,0,100,22,Dung beetle colony
+0,1,6,1,30,24,Giant water bug
+0,0,0,0,30,26,Emperor scorpion
+1,1,6,0,100,22,Carpenter ants
+1,2,6,0,150,24,Giant weta
+1,1,0,0,80,23,Goliath pinkfoot tarantula
+0,1,6,1,20,22,Monarch butterfly
+1,0,0,0,120,26,Texas brown tarantula
+1,2,4,0,3000,32,Reticulated python
+0,0,4,2,120,30,Green anole
+0,1,4,2,90,29,Giant day gecko
+1,1,3,1,150,22,Thai devil crab
+0,0,5,1,60,15,Spring peeper
+0,1,4,2,60,26,Giant day gecko
+0,2,5,1,60,22,Golden poison frog
+1,1,3,0,150,22,Brittle starfish
+0,2,2,1,60,24,Mandarin dragonet
+1,1,4,2,800,32,Chinese water dragon
+0,1,6,1,30,24,Giant Asian mantis
+0,2,4,2,90,22,Madagascar leaf chameleon
+0,1,6,0,20,22,Harvester ants
+0,0,3,1,30,24,Cherry shrimp
+1,0,5,0,200,18,Tiger salamander
+1,0,1,1,150,18,Goldfish
+0,1,6,1,40,27,Giant water bug
+1,1,5,0,150,10,Mudpuppy
+0,2,5,1,80,25,Mantella frog
+1,1,6,1,150,24,Giant prickly stick insect
+1,1,3,1,200,24,Thai devil crab
+1,1,4,2,600,24,Argentine tegu
+1,2,2,2,600,26,Sea anemone
+0,0,4,1,120,28,Garter snake
+0,1,5,1,40,20,Green and black poison dart frog
+0,2,3,1,40,27,Bumblebee shrimp
+1,1,1,1,300,24,Clown loach
+0,0,0,0,40,28,Tarantula
+0,0,5,0,40,20,Tomato frog
+1,0,6,0,150,24,Lobster roach
+1,0,4,2,800,32,Blue-tongued skink
+1,1,6,0,100,22,Atlas beetle
+1,0,3,1,200,24,Yabby
+1,1,1,1,450,26,Flowerhorn cichlid
+0,1,2,1,90,26,Clownfish
+0,2,1,1,40,24,Dwarf pencilfish
+0,2,2,1,120,27,Fairy wrasse
+1,1,6,0,150,24,Dung beetle colony
+1,1,3,0,300,27,Brittle starfish
+1,1,4,2,600,34,Uromastyx
+1,1,6,0,200,27,Dung beetle colony
+1,0,1,1,300,24,Firemouth cichlid
+0,1,1,1,80,27,Dwarf gourami
+0,1,4,0,120,30,Children's python
+0,1,4,2,90,29,Gold dust day gecko
+0,0,3,0,40,27,Giant African millipede
+1,2,5,1,800,26,Mountain chicken frog
+0,0,6,1,20,22,Fruit flies
+1,0,5,1,300,24,American toad
+1,1,3,1,150,22,Sand-sifting starfish
+1,1,6,1,100,22,Peruvian fire stick insect
+1,1,5,0,200,13,Alpine newt
+0,0,3,1,40,27,Ramshorn snail
+0,2,0,0,20,23,Venezuelan suntiger tarantula
+0,1,6,0,30,24,Rhinoceros beetle
+1,0,1,1,600,27,Silver dollar
+0,2,6,1,40,27,Violin mantis
+1,1,6,0,100,22,Hercules beetle
+0,2,3,1,40,27,Taiwan bee shrimp
+1,2,1,1,2000,18,Alligator gar
+1,2,3,0,2000,16,Japanese spider crab
+0,0,6,1,40,27,Ghost mantis
+1,1,3,1,300,27,Sand-sifting starfish
+1,2,3,1,450,24,Sea apple
+1,1,4,2,600,27,Red-footed tortoise
+1,2,0,0,150,23,Goliath birdeater
+1,1,1,1,450,26,Clown loach
+1,1,3,1,150,22,Fighting conch
+0,1,0,0,30,26,Pink toe tarantula
+1,1,6,0,150,24,Stag beetle
+0,2,6,1,40,27,Leaf-mimic katydid
+1,1,4,2,900,30,Savannah monitor
+0,2,0,0,30,26,Indian ornamental tarantula
+1,1,6,0,200,27,Eastern Hercules beetle
+0,2,1,1,40,24,Pygmy sunfish
+0,1,0,0,40,28,Asian forest scorpion
+1,0,1,0,600,27,Plecostomus
+0,0,6,1,30,24,Ghost mantis
+0,2,3,0,30,24,Hawaiian bobtail squid
+1,2,6,1,100,22,Weaver ants
+0,1,1,1,40,24,Cardinal tetra
+0,2,6,1,20,22,Jeweled flower mantis
+0,2,1,2,60,21,Hillstream loach
+1,2,5,0,600,25,Congo eel
+1,2,4,2,1500,26,Nile monitor
+0,0,1,1,80,27,Neon tetra
+0,1,5,1,80,25,Clown tree frog
+0,1,2,1,60,24,Clownfish
+0,2,4,0,120,25,Leaf-tailed gecko
+0,2,1,1,40,22,Nothobranchius killifish
+0,1,3,1,30,24,Fiddler crab
+1,0,0,0,80,23,Chaco golden knee tarantula
+1,0,4,0,400,21,Milk snake
+0,1,0,0,30,26,Antilles pinktoe tarantula
+1,1,0,0,160,28,Tanzanian red-claw scorpion
+1,0,6,0,150,24,Discoid roach
+0,1,4,0,60,24,Western hognose snake
+0,0,4,0,120,30,Rosy boa
+0,1,2,1,90,26,Royal gramma
+1,1,0,0,120,26,Giant forest scorpion
+1,0,4,0,400,26,Ball python
+0,2,6,1,20,22,Devil's flower mantis
+0,0,6,1,20,22,Ghost mantis
+0,0,5,1,40,12,Pickerel frog
+1,1,2,1,600,26,Black-cap basslet
+1,2,0,0,120,26,Black widow spider
+1,2,6,1,200,27,Weaver ants
+0,2,6,1,30,24,Violin mantis
+1,2,5,1,450,22,African bullfrog
+0,1,5,1,40,20,Dyeing poison frog
+1,2,4,2,600,32,Veiled chameleon
+0,2,3,1,20,22,Taiwan bee shrimp
+0,0,2,1,120,27,Yellowtail damselfish
+1,1,5,0,200,22,Budgett's frog
+0,1,6,1,20,22,Giant leaf insect
+0,0,6,1,40,27,Indian stick insect
+0,1,4,0,120,30,Western hognose snake
+1,1,2,1,400,24,Porcupine pufferfish
+0,1,4,0,90,27,Madagascar ground gecko
+0,2,6,1,20,22,Spiny flower mantis
+0,2,1,2,80,24,Hillstream loach
+1,0,2,1,800,27,Orange-tail damselfish
+1,1,2,1,400,24,Flame hawkfish
+0,2,4,2,90,22,Four-horned chameleon
+0,2,0,0,30,26,Camel spider
+1,2,6,1,150,22,Honeybee colony
+0,1,0,0,20,23,Tailless whip scorpion
+1,2,5,1,600,24,Mountain chicken frog
+1,1,0,0,160,28,Goliath pinkfoot tarantula
+0,0,6,0,40,27,Domino roach
+0,2,2,1,90,26,Banded pipefish
+1,1,6,0,150,24,Carpenter ants
+0,0,1,1,80,27,Platy
+1,1,0,0,80,23,Giant forest scorpion
+0,0,4,0,90,28,Kenyan sand boa
+0,2,3,1,40,27,Tiger shrimp
+1,2,2,1,400,24,Cuttlefish
+0,0,5,1,80,25,Green tree frog
+1,1,5,0,300,18,Alpine newt
+0,2,3,1,30,24,Sulawesi shrimp
+0,2,0,0,40,28,Deathstalker scorpion
+0,1,6,0,20,22,Atlas moth
+0,0,1,1,60,26,Harlequin rasbora
+1,0,4,2,400,20,Russian tortoise
+0,2,3,1,30,24,Tiger shrimp
+0,0,3,1,20,22,Amano shrimp
+0,2,6,1,30,24,Devil's flower mantis
+0,0,5,1,60,17,Pacific tree frog
+0,0,5,1,80,25,Barking tree frog
+0,2,6,1,40,27,Malaysian shield mantis
+1,2,4,0,2250,29,Burmese python
+1,0,1,0,450,26,Plecostomus
+0,1,0,0,20,23,Wolf spider
+1,2,0,0,120,26,Sydney funnel-web spider
+0,2,3,0,20,22,Hawaiian bobtail squid
+0,0,5,0,80,25,Tomato frog
+1,2,4,2,600,23,Parson's chameleon
+0,1,2,1,60,24,Six-line wrasse
+1,1,3,1,300,27,Chocolate chip starfish
+0,2,6,1,40,27,Thistle mantis
+0,1,1,1,40,24,Rummy-nose tetra
+1,2,0,0,160,28,Black widow spider
+0,0,1,1,60,26,Betta fish
+1,1,4,2,1000,24,Sulcata tortoise
+0,1,5,1,40,20,Clown tree frog
+1,2,1,1,1200,27,Arowana
+1,2,0,0,80,23,Cameroon red baboon tarantula
+1,2,5,0,200,8,Olm
+0,1,5,1,60,22,Vietnamese mossy frog
+1,2,3,0,1200,27,Nautilus
+1,1,6,1,200,27,Peruvian fire stick insect
+0,1,3,1,40,27,Thai micro crab
+1,0,5,1,300,24,Fowler's toad
+0,2,2,1,60,24,Cleaner shrimp
+1,0,6,0,100,22,Discoid roach
+1,0,4,2,400,22,Hermann's tortoise
+1,0,5,1,200,22,White's tree frog
+0,2,3,1,30,24,Pinto shrimp
+1,2,0,0,200,26,Goliath birdeater
+1,0,1,1,450,26,Giant danio
+1,2,1,0,3000,26,Red-tail catfish
+1,1,4,2,300,26,Ackie monitor
+1,1,0,0,120,26,Goliath pinkfoot tarantula
+0,2,1,1,80,27,Dwarf pencilfish
+1,1,3,0,200,24,Brittle starfish
+0,2,3,1,30,24,Blue bolt shrimp
+0,2,1,0,40,22,Wild betta
+1,2,5,0,400,22,Congo eel
+1,2,1,0,4000,27,Red-tail catfish
+0,1,3,1,40,27,Assassin snail
+0,0,5,1,40,15,Southern leopard frog
+0,2,1,0,60,26,Chocolate gourami
+1,2,0,0,160,28,King baboon tarantula
+0,1,1,1,40,24,Celestial pearl danio
+1,0,6,0,200,27,Feeder cricket colony
+0,2,6,1,40,27,Budwing mantis
+0,0,2,1,90,26,Yellowtail damselfish
+1,0,3,0,200,24,Red wiggler worms
+1,1,3,1,150,22,Australian red claw crayfish
+0,1,2,1,60,24,Pajama cardinalfish
+0,0,5,1,40,10,Spring peeper
+1,2,0,0,80,23,Trapdoor spider
+1,2,0,0,160,28,Thailand black tarantula
+0,1,5,1,80,25,Dyeing poison frog
+1,2,2,2,400,24,Sea anemone
+1,1,3,1,200,24,Giant Malaysian prawn
+1,2,3,0,600,22,Nautilus
+1,1,1,1,600,27,Rainbowfish
+1,1,6,0,150,24,Eastern Hercules beetle
+0,2,5,1,40,20,Mission golden-eyed tree frog
+1,1,4,2,450,30,Ackie monitor
+1,1,2,1,800,27,Porcupine pufferfish
+1,0,5,1,200,21,Gray tree frog
+1,2,0,0,80,23,Black widow spider
+1,2,6,0,200,27,Bullet ants
+1,1,6,0,150,24,Atlas beetle
+0,0,3,1,40,27,Ghost shrimp
+1,1,2,1,400,24,Maroon clownfish
+1,2,5,0,150,18,Greater siren
+1,1,0,0,120,26,Giant huntsman spider
+0,0,5,1,40,20,African dwarf frog
+0,1,5,0,40,10,Marbled salamander
+0,1,1,1,40,24,Apistogramma
+1,2,4,1,450,29,Green tree python
+0,1,0,0,20,23,Green bottle blue tarantula
+1,2,5,0,200,21,Greater siren
+1,0,1,1,500,24,Tinfoil barb
+0,1,0,0,30,26,Flat rock scorpion
+0,0,3,1,20,22,Ghost shrimp
+1,2,2,1,600,26,Lionfish
+1,2,1,1,600,27,Altum angelfish
+1,1,1,1,600,27,Jack Dempsey
+1,0,3,0,200,24,Giant African land snail
+0,1,6,0,20,22,Rhinoceros beetle
+0,2,5,1,80,25,Glass frog
+0,1,1,1,80,27,Pygmy corydoras
+1,1,5,1,150,20,Waxy monkey frog
+0,0,6,0,40,27,Mealworm beetle
+0,2,1,1,40,24,Marbled hatchetfish
+0,2,2,1,90,26,Fairy wrasse
+1,2,5,0,300,24,Hairy frog
+1,2,5,1,150,10,Titicaca water frog
+1,2,4,2,450,28,Panther chameleon
+0,0,2,1,90,26,Neon goby
+0,0,4,0,120,32,African fat-tailed gecko
+0,0,0,0,40,28,Curly hair tarantula
+1,0,5,0,150,15,Spadefoot toad
+0,0,0,0,40,28,Pumpkin patch tarantula
+1,2,1,1,300,24,Altum angelfish
+0,1,2,1,90,26,Tailspot blenny
+1,1,3,1,300,27,Thai devil crab
+0,0,4,0,60,24,Rosy boa
+0,0,1,1,80,27,Cherry barb
+0,1,3,1,40,27,Vampire crab
+1,2,2,2,1000,27,Powder blue tang
+1,2,3,0,400,8,American lobster
+0,2,3,1,30,24,Crystal red shrimp
+1,0,2,1,600,26,Cinnamon clownfish
+1,2,5,1,200,12,Titicaca water frog
+1,1,5,0,300,18,Spotted salamander
+1,2,0,0,80,23,Indian violet tarantula
+1,1,0,0,80,23,Black rock scorpion
+1,2,4,0,1500,26,Burmese python
+0,0,2,1,120,27,Nassarius snail
+1,0,1,1,1000,27,Tinfoil barb
+1,0,0,0,160,28,Brazilian black tarantula
+0,1,3,1,20,22,Thai micro crab
+1,0,6,2,150,24,Black soldier fly
+1,0,5,1,200,20,American toad
+0,1,4,0,120,30,Madagascar ground gecko
+1,1,2,1,800,27,Black-cap basslet
+0,0,1,1,80,27,Molly
+0,1,0,0,40,28,Vinegaroon
+0,2,2,1,90,26,Firefish goby
+1,0,5,1,150,20,Cuban tree frog
+1,1,1,1,600,27,Flowerhorn cichlid
+1,2,3,0,150,22,Spiny lobster
+0,0,4,1,60,21,Crested gecko
+0,2,6,1,30,24,Leaf-mimic katydid
+0,1,3,1,30,24,Vampire crab
+1,0,0,0,120,26,Mexican red-leg tarantula
+0,1,1,1,80,27,Apistogramma
+0,2,5,1,60,22,Strawberry poison frog
+1,1,1,1,3000,20,Koi
+0,0,1,1,80,22,White Cloud Mountain minnow
+1,0,5,0,150,24,Pacman frog
+1,2,3,0,200,24,Spiny lobster
+1,2,6,1,200,24,Honeybee colony
+1,0,2,1,600,26,Humbug damselfish
+0,1,1,1,40,24,German blue ram
+1,1,2,1,800,27,Banded coral shrimp
+1,2,3,1,600,27,Sea apple
+0,1,2,1,90,26,Blue-spotted jawfish
+0,0,2,1,120,27,Peppermint shrimp
+0,1,5,1,60,22,Poison dart frog
+0,2,5,1,80,25,Mission golden-eyed tree frog
+0,2,4,1,120,28,Flying gecko
+0,1,3,1,40,27,Blue velvet shrimp
+0,2,2,1,120,27,Cleaner shrimp
+0,1,5,1,80,25,Blue poison dart frog
+0,0,1,1,40,24,Harlequin rasbora
+0,1,6,0,40,27,Rhinoceros beetle
+0,0,2,1,60,24,Emerald crab
+0,2,3,1,40,27,Sulawesi shrimp
+1,2,1,0,300,24,Elephantnose fish
+0,0,0,0,30,26,Pink zebra beauty tarantula
+1,0,5,0,200,20,Spadefoot toad
+1,1,5,0,300,25,Budgett's frog
+0,0,1,1,60,26,Cherry barb
+0,1,1,1,60,26,Pygmy corydoras
+1,0,2,1,600,26,Bicolor damselfish
+1,0,5,1,200,20,Fowler's toad
+1,1,6,1,150,24,Peruvian fire stick insect
+0,0,0,0,30,26,Mexican red-knee tarantula
+0,0,4,0,60,24,African fat-tailed gecko
+0,0,0,0,20,23,Pink zebra beauty tarantula
+1,0,2,1,800,27,Bicolor damselfish
+1,2,1,1,450,26,Altum angelfish
+0,0,1,1,60,19,White Cloud Mountain minnow
+1,2,0,0,80,23,King baboon tarantula
+1,0,0,0,80,23,Giant whiteknee tarantula
+1,2,3,1,800,22,Horseshoe crab
+1,2,6,0,150,24,Goliath beetle
+1,0,3,0,150,15,Garden snail
+0,0,3,1,40,27,Mystery snail
+0,1,1,1,60,26,Apistogramma
+0,2,3,1,20,22,Sunkist shrimp
+0,0,0,0,30,26,Pumpkin patch tarantula
+1,1,6,0,100,22,Eastern Hercules beetle
+1,0,1,1,600,27,Convict cichlid
+1,2,4,2,1500,26,Water monitor
+0,1,6,1,20,22,Giant water bug
+0,0,5,1,40,20,Barking tree frog
+1,1,1,0,400,24,Black ghost knifefish
+1,0,5,0,150,15,Tiger salamander
+1,0,6,0,200,27,Discoid roach
+1,1,4,2,400,24,Chinese water dragon
+1,1,3,1,200,24,Sand-sifting starfish
+0,2,2,1,60,24,Fairy wrasse
+0,1,3,1,20,22,Fiddler crab
+0,0,3,1,20,22,Hermit crab
+0,2,4,2,60,16,Cape dwarf chameleon
+1,2,2,0,400,24,Octopus
+1,2,4,2,2250,29,Nile monitor
+1,2,3,0,900,24,Nautilus
+0,1,3,1,30,24,Thai micro crab
+1,1,2,2,600,26,Coral beauty angelfish
+1,0,2,1,600,26,Orange-tail damselfish
+0,1,0,0,30,26,Wolf spider
+1,2,3,0,600,12,American lobster
+1,2,6,1,150,24,Weaver ants
+1,2,2,1,1500,24,Bamboo shark
+1,0,2,1,400,24,Green chromis
+0,2,4,2,90,29,Armadillo girdled lizard
+0,2,0,0,30,26,Deathstalker scorpion
+1,2,5,1,400,22,Mountain chicken frog
+1,0,6,0,100,22,Death's head cockroach
+1,2,6,0,200,27,Giant weta
+1,1,3,1,300,27,Pencil urchin
+1,2,6,1,150,24,Stingless bee colony
