@@ -1,0 +1,14 @@
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+import joblib #methods for saving and loading models
+
+# music_data =pd.read_csv(r'C:\Users\Pcuser\Desktop\machine learning\MY FIRST PROJECT\aquarium_dataset_x3.csv')
+# X = music_data.drop(columns = ['Animal_species'])
+# Y = music_data['Animal_species']
+
+# model = DecisionTreeClassifier(min_samples_leaf = 3)
+# model.fit(X,Y)
+
+model = joblib.load(r'C:\Users\Pcuser\Desktop\machine learning\MY FIRST PROJECT\pet_recommender.joblib')
+predictions = model.predict([[0,1,5,0,40,24]])
+predictions 
