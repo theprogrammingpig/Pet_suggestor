@@ -1,0 +1,17 @@
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import tree
+
+pet_data = pd.read_csv(r'C:\Users\Pcuser\Desktop\machine learning\MY FIRST PROJECT\aquarium_dataset_x3.csv')
+X = pet_data.drop(columns = ['Animal_species'] )
+Y = pet_data['Animal_species']
+
+model = DecisionTreeClassifier()
+model.fit(X,Y)
+
+tree.export_graphviz(model,out_file = 'pet_suggestion1.dot',
+                    feature_names = ['aquarium_size' , 'experience','animal_category','Lighting','Tank_Litres','Temperature'],
+                    class_names=sorted(Y.unique()),
+                    label = 'all',
+                    rounded = True,
+                    filled = True)
